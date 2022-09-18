@@ -1,4 +1,4 @@
-https://ss64.com/nt/wmic.html
+# https://ss64.com/nt/wmic.html
 
 wmic MEMORYCHIP
 
